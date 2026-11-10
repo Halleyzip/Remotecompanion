@@ -1,3 +1,5 @@
+<img src="icon.png" width="128" alt="Remote Companion">
+
 # Remote Companion
 
 给 **任意 AI 角色**一个 Minecraft 里的身体：模组在本机开一个 HTTP 接口，AI 侧（本地 LLM、OpenAI、角色扮演框架、脚本）通过它让角色**走、看、说、跟随、飞行、执行服务器指令**。
